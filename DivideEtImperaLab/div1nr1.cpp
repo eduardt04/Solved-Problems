@@ -1,4 +1,4 @@
-// binary search to find an index with v[i] = i in a sorted array
+// binary search to find an index with v[i] = i in a sorted array - O(logn)
 #include <fstream>
 #include <vector>
 using namespace std;
